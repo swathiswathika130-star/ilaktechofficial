@@ -2474,6 +2474,7 @@
   padding: 0px;
   background-color: var(--back-color);
   height: 80px;
+  allign-ites:centre;
   border-bottom: none;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.05); }
 
